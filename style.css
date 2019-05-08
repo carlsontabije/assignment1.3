@@ -65,6 +65,7 @@ border-left: 1px solid #000000;
     background-color: #ffffff;
     padding: 20px;
     float: left;
+    margin-left: 75px;
 }
 
 .post-comments{
@@ -75,7 +76,7 @@ border-left: 1px solid #000000;
 .rightside-preview{
     width: 250px;
     float:  right;
-    margin-top: -702px;
+    margin-top: -815px;
     margin-right:  -100px;
 }
 
