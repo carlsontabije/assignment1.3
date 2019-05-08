@@ -58,7 +58,7 @@ border-left: 1px solid #000000;
 
 .blog-post{
     border-top: 5px solid #29c389;
-    border-bottom: 5px solid #29c389;
+    border-bottom: 5px solid #ececee;
     border-right: 5px solid #ececee;
     border-left: 5px solid #ececee;
     margin-bottom: 15px;
@@ -79,7 +79,6 @@ border-left: 1px solid #000000;
     margin-top: -737px;
     margin-right:  -100px;
 }
-
 
 p a{
     color:  black;
