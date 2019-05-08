@@ -75,7 +75,7 @@ border-left: 1px solid #000000;
 .rightside-preview{
     width: 250px;
     float:  right;
-    margin-top: -718px;
+    margin-top: -702px;
     margin-right:  -100px;
 }
 
@@ -108,4 +108,9 @@ ul li a:hover{
     width: 100px;
     height: 70px;
     margin: 10px;
+}
+
+.article{
+    color: red;
+    float: right;
 }
