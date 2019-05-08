@@ -13,7 +13,7 @@ body{
     float: left;
     padding-top: 5px;
     padding-left: 140px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Brush Script MT, Brush Script Std, cursive;
     color: #ffffff;
 }
 
@@ -94,6 +94,11 @@ ul li h5{
 
 ul li a:hover{
     color: #000000;
+}
+
+.recent-posts{
+    float: left;
+    padding: 0px;
 }
 
 .image{
