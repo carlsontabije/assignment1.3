@@ -39,7 +39,7 @@ li a {
 }
  
 li a:hover {
-    color: #ffffff;
+    color: #000000;
 }
 
 .navbar{
@@ -79,9 +79,6 @@ border-left: 1px solid #000000;
     margin-right:  -100px;
 }
 
-ul li a{
-    color: black;
-}
 
 p a{
     color:  black;
@@ -92,9 +89,6 @@ ul li h5{
     margin-right: 120px;
 }
 
-ul li a:hover{
-    color: #000000;
-}
 
 .recent-posts{
     float: left;
